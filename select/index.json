@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Munajat Cinta",
+  "base_artist": "The Rock",
+  "createdAt": "2026-03-08T20:24:56.217764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "T.R.I.A.D",
+      "has_synced": false,
+      "path": "select/01_Munajat_Cinta_T.R.I.A.D.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "The Rock",
+      "has_synced": true,
+      "path": "select/02_Munajat_Cinta_The_Rock.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "Raffa Affar",
+      "has_synced": true,
+      "path": "select/03_Munajat_Cinta_Raffa_Affar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "The Rock",
+      "has_synced": true,
+      "path": "select/04_Munajat_Cinta_The_Rock.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Rock - Munajat Cinta (Official Music Video)",
+      "artist": "GP Records",
+      "has_synced": true,
+      "path": "select/05_The_Rock_-_Munajat_Cinta_(Official_Music_Video)_GP_Records.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "Felix Irwan",
+      "has_synced": true,
+      "path": "select/06_Munajat_Cinta_Felix_Irwan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "Tami Aulia",
+      "has_synced": true,
+      "path": "select/07_Munajat_Cinta_Tami_Aulia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "Alexa Key",
+      "has_synced": true,
+      "path": "select/08_Munajat_Cinta_Alexa_Key.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "The Rock",
+      "has_synced": true,
+      "path": "select/09_Munajat_Cinta_The_Rock.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "The Rock",
+      "has_synced": true,
+      "path": "select/10_Munajat_Cinta_The_Rock.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Takkan Berpaling Darimu (ost.Munajat Cinta)",
+      "artist": "Rossa",
+      "has_synced": true,
+      "path": "select/11_Takkan_Berpaling_Darimu_(ost.Munajat_Cinta)_Rossa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "T.R.I.A.D",
+      "has_synced": true,
+      "path": "select/12_Munajat_Cinta_T.R.I.A.D.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "The Rock Ft Ahmad Dhani",
+      "has_synced": true,
+      "path": "select/13_Munajat_Cinta_The_Rock_Ft_Ahmad_Dhani.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "Tri Suaka",
+      "has_synced": false,
+      "path": "select/14_Munajat_Cinta_Tri_Suaka.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Munajat Cinta",
+      "artist": "Rock",
+      "has_synced": true,
+      "path": "select/15_Munajat_Cinta_Rock.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Munajat Cinta",
+      "artist": "The Rock",
+      "has_synced": false,
+      "path": "select/pl_01_Munajat_Cinta_The_Rock.txt"
+    }
+  ]
+}
